@@ -6,7 +6,7 @@ const App = () => {
         App Component
 
         <p>{message}</p>
-    </div>
+    <div>
   )
 }
 
